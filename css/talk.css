@@ -1,0 +1,48 @@
+			#t_top{
+				width: 700px;
+				height: 180px;
+				background-color: white;
+				border-radius: 1px;
+				position: relative;
+			}
+			#t_middle{
+				width: 970px;
+				margin: 0 auto;
+			}			
+			#t_button{
+				width: 70px;
+				height: 30px;
+				border-radius: 3px;
+				background: rgb(255,192,159);
+				text-align: center;
+				line-height: 30px;
+				position: absolute;
+				top: 140px;
+				left: 618px;
+				color: white;
+				cursor: pointer;
+			}
+			#t_lost{
+				font-size: 20px;
+				position: absolute;
+				top: 10px;
+				left: 450px;
+				color: rgb(226,0,13);
+				font-family: "楷体" ;
+			}
+			#t_input_text{
+				width: 670px;
+				height: 90px;
+				margin: 40px 12px 0;
+				resize : none;
+				outline: none;
+				border: 1px solid black;
+			}
+				#t_title{
+				font-family: "WBswficon" !important;
+				font-size: 18px;
+				color: #1b7fb6;
+				position: absolute;
+				top: 15px;
+				left: 13px;
+			}
